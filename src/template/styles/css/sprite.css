@@ -1,0 +1,59 @@
+.icon-arrow-big-white {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -24px;
+  width: 18px;
+  height: 13px; }
+
+.icon-arrow-small-violet {
+  background-image: url(../../img/sprite.png);
+  background-position: -13px -37px;
+  width: 13px;
+  height: 9px; }
+
+.icon-arrow-small-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -26px -37px;
+  width: 13px;
+  height: 9px; }
+
+.icon-facebook {
+  background-image: url(../../img/sprite.png);
+  background-position: -57px 0px;
+  width: 6px;
+  height: 13px; }
+
+.icon-instagram {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -37px;
+  width: 13px;
+  height: 13px; }
+
+.icon-phone {
+  background-image: url(../../img/sprite.png);
+  background-position: -17px 0px;
+  width: 20px;
+  height: 20px; }
+
+.icon-placeholder {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px 0px;
+  width: 17px;
+  height: 24px; }
+
+.icon-plane {
+  background-image: url(../../img/sprite.png);
+  background-position: -37px 0px;
+  width: 20px;
+  height: 20px; }
+
+.icon-twitter {
+  background-image: url(../../img/sprite.png);
+  background-position: -18px -24px;
+  width: 15px;
+  height: 12px; }
+
+.icon-vk {
+  background-image: url(../../img/sprite.png);
+  background-position: -33px -24px;
+  width: 16px;
+  height: 9px; }

@@ -1,6 +1,83 @@
-/* Including fonts */
 @font-face {
-  font-family: "";
-  src: url("../../fonts/");
-  font-style: normal;
-  font-weight: 400; }
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-MediumItalic.eot");
+  src: local("Roboto Medium Italic"), local("Roboto-MediumItalic"), "Roboto-MediumItalic.eot?#iefix" format("embedded-opentype"), "Roboto-MediumItalic.woff" format("woff"), "Roboto-MediumItalic.ttf" format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-Italic.eot");
+  src: local("Roboto Italic"), local("Roboto-Italic"), "Roboto-Italic.eot?#iefix" format("embedded-opentype"), "Roboto-Italic.woff" format("woff"), "Roboto-Italic.ttf" format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-Bold.eot");
+  src: local("Roboto Bold"), local("Roboto-Bold"), "Roboto-Bold.eot?#iefix" format("embedded-opentype"), "Roboto-Bold.woff" format("woff"), "Roboto-Bold.ttf" format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-Regular.eot");
+  src: local("Roboto"), local("Roboto-Regular"), "Roboto-Regular.eot?#iefix" format("embedded-opentype"), "Roboto-Regular.woff" format("woff"), "Roboto-Regular.ttf" format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-Medium.eot");
+  src: local("Roboto Medium"), local("Roboto-Medium"), "Roboto-Medium.eot?#iefix" format("embedded-opentype"), "Roboto-Medium.woff" format("woff"), "Roboto-Medium.ttf" format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-BoldItalic.eot");
+  src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"), "Roboto-BoldItalic.eot?#iefix" format("embedded-opentype"), "Roboto-BoldItalic.woff" format("woff"), "Roboto-BoldItalic.ttf" format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-ThinItalic.eot");
+  src: local("Roboto Thin Italic"), local("Roboto-ThinItalic"), "Roboto-ThinItalic.eot?#iefix" format("embedded-opentype"), "Roboto-ThinItalic.woff" format("woff"), "Roboto-ThinItalic.ttf" format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-Black.eot");
+  src: local("Roboto Black"), local("Roboto-Black"), "Roboto-Black.eot?#iefix" format("embedded-opentype"), "Roboto-Black.woff" format("woff"), "Roboto-Black.ttf" format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), "Roboto-Light.eot?#iefix" format("embedded-opentype"), "Roboto-Light.woff" format("woff"), "Roboto-Light.ttf" format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-LightItalic.eot");
+  src: local("Roboto Light Italic"), local("Roboto-LightItalic"), "Roboto-LightItalic.eot?#iefix" format("embedded-opentype"), "Roboto-LightItalic.woff" format("woff"), "Roboto-LightItalic.ttf" format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-BlackItalic.eot");
+  src: local("Roboto Black Italic"), local("Roboto-BlackItalic"), "Roboto-BlackItalic.eot?#iefix" format("embedded-opentype"), "Roboto-BlackItalic.woff" format("woff"), "Roboto-BlackItalic.ttf" format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../../fonts/Roboto/Roboto-Thin.eot");
+  src: local("Roboto Thin"), local("Roboto-Thin"), "Roboto-Thin.eot?#iefix" format("embedded-opentype"), "Roboto-Thin.woff" format("woff"), "Roboto-Thin.ttf" format("truetype");
+  font-weight: 100;
+  font-style: normal; }
